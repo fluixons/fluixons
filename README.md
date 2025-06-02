@@ -1,3 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/1095582926390956123/1379127003156058194/IMG_2425.jpg?ex=683f1b9c&is=683dca1c&hm=3e0f57211fc803f80614bd411c1da38382bbac9000e893de2fba1600eb6d9d44&" alt="Centered Image"> <br>
+<img src="https://static.wikia.nocookie.net/saihate-station/images/6/6b/Shion_18_kagami.png/revision/latest/scale-to-width-down/250?cb=20240619065753"> <br>
 　
-　　　　　     　  　　[atabook](https://crucify.atabook.org)  　 <br>
+　　　　　     　  [atabook](https://crucify.atabook.org)  　 <br>
