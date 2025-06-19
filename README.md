@@ -2,5 +2,5 @@
   <b> </b><br>
   <a href="https://esper.atabook.org/"> atabook  </a> 
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/1095582926390956123/1385255838746152970/IMG_2802.jpg?ex=68556788&is=68541608&hm=e38ea6c3844b423eda2bd7616b3463e2ec5d47fcd0c69003b7c7109542324297&" alt="Alt Text" width="320" height="150"
+  <img src="https://cdn.discordapp.com/attachments/1095582926390956123/1385267220476592270/Untitled46_20250619220328-removebg-preview.png?ex=68557222&is=685420a2&hm=b0450b1414b713d0bfa7ce788fa767b11a4e77361567377a755aaf9a6160fd19" alt="Alt Text" width="300" height="300"
 </p>
