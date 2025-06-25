@@ -2,5 +2,5 @@
   <b> </b><br>
   <a href="https://uzukei.atabook.org/"> atabook  </a> 
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1095582926390956123/1385267220476592270/Untitled46_20250619220328-removebg-preview.png?ex=685b60e2&is=685a0f62&hm=3466071ac626ce9c0ef76c004e02e4229aff0fe60a47c400d54a0c3fbcb5ba49&=&format=webp&quality=lossless" alt="Alt Text" width="300" height="300"
+  <img src="https://cdn.discordapp.com/attachments/1095582926390956123/1385267220476592270/Untitled46_20250619220328-removebg-preview.png?ex=685cb262&is=685b60e2&hm=c3cd8c05bfa1cc8792d2103ab4b8f164683d75505495dbae33d62c13672aa43d&" alt="Alt Text" width="300" height="300"
 </p>
