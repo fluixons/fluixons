@@ -1,4 +1,4 @@
-<div align="center"> ‎‎‎ ‎<a href="https://thornfull.carrd.co/"> carrd </a>   ‎ ‎‎‎ ‎‎ ‎‎  ‎ ‎‎‎ ‎‎ ‎‎     ‎ ‎‎‎‎ ‎‎‎ ‎‎ ‎‎ ‎‎‎‎‎‎ ‎‎‎  ‎  ‎‎‎‎‎  ‎‎  ‎ ‎‎‎‎‎  ‎‎ ‎‎‎ ‎‎ ‎‎   ‎ ‎‎‎‎‎‎ ‎‎‎<a href="https://uzukei.atabook.org"> ata</a>   
+<div align="center"> ‎‎‎ ‎<a href="https://keiuzu.straw.page"> strawpage </a>   ‎ ‎‎‎ ‎‎ ‎‎  ‎ ‎‎‎ ‎‎ ‎‎     ‎ ‎‎‎‎ ‎‎‎ ‎‎ ‎‎ ‎‎‎‎‎‎ ‎‎‎  ‎  ‎‎‎‎‎  ‎‎  ‎ ‎‎‎‎‎  ‎‎ ‎‎‎ ‎‎ ‎‎   ‎ ‎‎‎‎‎‎ ‎‎‎<a href="https://uzukei.atabook.org"> ata</a>   
  </div> 
 
 
