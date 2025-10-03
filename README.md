@@ -6,6 +6,6 @@
  </div> 
 
 
-<p align="center"> <img src="https://i.imgur.com/CPByhDJ.png" width="300" height="300"> </p>
+<p align="center"> <img src="https://i.imgur.com/pEJsSSJ.png" width="300" height="300"> </p>
 <p align="center"> 
  
