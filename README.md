@@ -1,6 +1,6 @@
 <div align="center"> ‎‎‎ ‎
 
-<div align="center"> ‎‎‎ ‎<a href="https://chainlets.carrd.co/"> crd </a>   ‎‎‎‎‎ ‎‎‎    ‎   ‎‎‎‎‎‎ ‎‎‎  ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎   ‎‎‎ ‎‎‎‎‎‎    ‎‎‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎      ‎‎ ‎‎‎‎‎‎‎‎‎ ‎<a href="https://fluixons.atabook.org"> ata </a>
+<div align="center"> ‎‎‎‎<a href="https://fluixons.atabook.org"> atabook </a>
  </div> ‎‎‎   
  
  </div> 
